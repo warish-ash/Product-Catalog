@@ -1,4 +1,4 @@
-# mad_last
+# Product Catalog Manager
 
 A new Flutter project.
 
